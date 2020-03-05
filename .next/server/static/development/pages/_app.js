@@ -105,8 +105,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return MyApp; });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../styles.css */ "./styles.css");
-/* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_css__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _tailwind_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../tailwind.css */ "./tailwind.css");
+/* harmony import */ var _tailwind_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_tailwind_css__WEBPACK_IMPORTED_MODULE_1__);
 var _jsxFileName = "/home/divine/Documents/projects/next/next-learn-demo/hello-next/pages/_app.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -129,10 +129,10 @@ function MyApp({
 
 /***/ }),
 
-/***/ "./styles.css":
-/*!********************!*\
-  !*** ./styles.css ***!
-  \********************/
+/***/ "./tailwind.css":
+/*!**********************!*\
+  !*** ./tailwind.css ***!
+  \**********************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
